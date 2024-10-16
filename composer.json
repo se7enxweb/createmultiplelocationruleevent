@@ -1,0 +1,30 @@
+{
+    "name": "se7enxweb/createmultiplelocationruleevent",
+    "description": "Adds locations to content when they are created dynamicaly via workflow event. Great for savy developers!",
+    "type": "ezpublish-legacy-extension",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+	{
+            "name" : "7x",
+            "homepage": "https://se7enx.com",
+            "email": "info@se7enx.com",
+	    "role": "Developer"
+	},
+        {
+            "name": "eZ Publish Community",
+            "homepage": "https://github.com/se7enxweb/createmultiplelocationruleevent/contributors",
+    	    "role": "Contributors"
+        },
+        {
+            "name": "Jean-Luc NGUYEN",
+            "role": "Author"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "se7enxweb/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "createmultiplelocationruleevent"
+    }
+}
